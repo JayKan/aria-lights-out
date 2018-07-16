@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Accessible Rich Internet Application",
   "engines": {
-    "node": ">= 6",
+    "node": ">= 8",
     "npm": ">= 5"
   },
   "dependencies": {
