@@ -70,7 +70,7 @@ export class REPL extends Component {
     vertical: false,
   };
 
-  state = {}
+  state = {};
 
   setSource = source => {
     this.setState({ source }, () => this.updateContent(source));
